@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter application.
+A note app that let you write down you tasks and cross the tasks once completed.
 
 ## Getting Started
 
